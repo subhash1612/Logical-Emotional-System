@@ -14,7 +14,7 @@ A simple Streamlit-based app that classifies user input as either **logical** or
 
 - Python
 - [Streamlit](https://streamlit.io)
-- OpenAI (or other LLM provider via `langchain`)
+- Ollama
 
 ## 📦 Setup Instructions
 
