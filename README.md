@@ -16,3 +16,4 @@ A  Streamlit-based app that classifies user input as either **logical** or **emo
 - [Streamlit](https://streamlit.io)
 - Ollama
 
+<img width="920" height="1052" alt="image" src="https://github.com/user-attachments/assets/21c45fcc-b295-4d13-9074-3a37ffef94c0" />
