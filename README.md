@@ -16,9 +16,3 @@ A simple Streamlit-based app that classifies user input as either **logical** or
 - [Streamlit](https://streamlit.io)
 - Ollama
 
-## 📦 Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/Logical-Emotional-System.git
-   cd Logical-Emotional-System
