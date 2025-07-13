@@ -1,6 +1,6 @@
 # 🧠 Logical-Emotional-System
 
-A simple Streamlit-based app that classifies user input as either **logical** or **emotional** using a language model.
+A  Streamlit-based app that classifies user input as either **logical** or **emotional** using Langgraph.
 
 ## 🚀 Features
 
