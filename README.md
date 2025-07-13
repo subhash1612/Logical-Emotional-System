@@ -13,7 +13,7 @@ A  Streamlit-based app that classifies user input as either **logical** or **emo
 ## 🛠️ Tech Stack
 
 - Python
-- [Streamlit](https://streamlit.io)
+- Streamlit
 - Ollama
 
 
